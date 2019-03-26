@@ -1,0 +1,4 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Mar 26 09:53:12 GMT+01:00 2019
+https\://udd-nexus.cnp.fr/nexus/content/groups/public/.error=Could not transfer artifact org.springframework.boot\:spring-boot-starter-parent\:pom\:2.1.3.RELEASE from/to nexus (https\://udd-nexus.cnp.fr/nexus/content/groups/public)\: H\u00F4te inconnu (udd-nexus.cnp.fr)
+@default-nexus-https\://udd-nexus.cnp.fr/nexus/content/groups/public/.lastUpdated=1553590392739

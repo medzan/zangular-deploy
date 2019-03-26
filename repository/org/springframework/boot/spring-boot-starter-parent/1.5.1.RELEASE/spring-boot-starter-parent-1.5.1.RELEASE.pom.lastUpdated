@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Mar 26 10:26:49 GMT+01:00 2019
+@default-nexus-https\://udd-nexus.cnp.fr/nexus/content/groups/public/.lastUpdated=1553592409531
+https\://udd-nexus.cnp.fr/nexus/content/groups/public/.error=Could not transfer artifact org.springframework.boot\:spring-boot-starter-parent\:pom\:1.5.1.RELEASE from/to nexus (https\://udd-nexus.cnp.fr/nexus/content/groups/public)\: udd-nexus.cnp.fr
